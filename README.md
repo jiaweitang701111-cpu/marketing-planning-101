@@ -2,7 +2,7 @@
 
 國立澎湖科技大學 行銷與物流管理系｜唐嘉偉 老師
 
-網頁式互動簡報（Silicon Valley Pitch 風格，單一 HTML 檔，59 頁）。
+網頁式互動簡報（Silicon Valley Pitch 風格，單一 HTML 檔，64 頁）。
 
 👉 線上觀看：https://jiaweitang701111-cpu.github.io/marketing-planning-101/
 
